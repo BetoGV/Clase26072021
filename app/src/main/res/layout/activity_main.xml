@@ -24,7 +24,7 @@
         android:layout_marginLeft="158dp"
         android:layout_marginTop="128dp"
         android:onClick="press"
-        android:text="El Buttonnnnnn"
+        android:text="Soy un boton"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
