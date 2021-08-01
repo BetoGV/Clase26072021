@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
 
         // Instantiate the RequestQueue.
         val queue = Volley.newRequestQueue(this)
-        val url = "https://tsmpjgv9.000webhostapp.com/get.php?status=0&ID=1"
+        val url = "https://tsmpjgv9.000webhostapp.com/get.php?status=0&ID=2"
 
         // Request a string response from the provided URL.
         val stringRequest = StringRequest(
